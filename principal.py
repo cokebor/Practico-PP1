@@ -1,8 +1,5 @@
 from resta import resta
-
-
-def suma(a,b):
-    return (a+b)
+from suma import suma
 
 if __name__ == "__main__":
     print("Principal")
